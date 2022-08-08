@@ -3,8 +3,11 @@
 
 ## Linux CLI, and HTTP
 https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux1.png
+
 https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux2.png
+
 https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux3.png
+
 https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux4.png
 
 Linux Survival - дякую за таск! Просто супер! Використовую як юзер Linux вже кілька років (здебільшого використовував user-friendly интерфейс, але тільки після проходження навчання на цьому ресурсі почав щось сам писати, а не тупо копіювати в терміналі.
