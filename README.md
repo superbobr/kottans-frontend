@@ -12,3 +12,20 @@ https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux4.pn
 
 Linux Survival - дякую за таск! Просто супер! Використовую як юзер Linux вже кілька років (здебільшого використовував user-friendly интерфейс, але тільки після проходження навчання на цьому ресурсі почав щось сам писати, а не тупо копіювати в терміналі.
 Матеріал про HTTP теж цікавий, але як на мене, для новачків може бути на початку занадто складний для розуміння.
+
+## Git Collaboration
+Дякую було дуже цікаво! Але вже хочется скоріше перейти до вивчення HTML, CSS, Javascript.
+
+<details>
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git1.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git2.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git3.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git4.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git-game1.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git-game2.png
+</details>
