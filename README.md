@@ -13,9 +13,10 @@ https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux3.pn
 
 https://github.com/superbobr/kottans-frontend/blob/main/task_linux_cli/linux4.png
 
+</details>
+
 Linux Survival - дякую за таск! Просто супер! Використовую як юзер Linux вже кілька років (здебільшого використовував user-friendly интерфейс, але тільки після проходження навчання на цьому ресурсі почав щось сам писати, а не тупо копіювати в терміналі.
 Матеріал про HTTP теж цікавий, але як на мене, для новачків може бути на початку занадто складний для розуміння.
-</details>
 
 ## Git Collaboration
 Дякую було дуже цікаво! Але вже хочется скоріше перейти до вивчення HTML, CSS, Javascript.
