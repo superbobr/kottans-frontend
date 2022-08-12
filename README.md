@@ -17,6 +17,7 @@ Linux Survival - дякую за таск! Просто супер! Викори
 Дякую було дуже цікаво! Але вже хочется скоріше перейти до вивчення HTML, CSS, Javascript.
 
 <details>
+  
 https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git1.png
 
 https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git2.png
@@ -28,4 +29,5 @@ https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/g
 https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git-game1.png
 
 https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git-game2.png
+  
 </details>
