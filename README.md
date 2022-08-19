@@ -37,3 +37,19 @@ https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/g
 https://github.com/superbobr/kottans-frontend/blob/main/task_git_collaboration/git-game2.png
   
 </details>
+
+## Intro to HTML and CSS
+Я вже знайомий з HTML та CSS, але все одно було корисно для себе повторити матеріал. 
+<details>
+
+<summary>Переглянути скриншоти ...</summary>
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/html1.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/css1.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/html2.png
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/css2.png
+
+</details>
