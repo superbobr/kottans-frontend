@@ -53,3 +53,17 @@ https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/html
 https://github.com/superbobr/kottans-frontend/blob/main/task_html_css_intro/css2.png
 
 </details>
+
+## Responsive Web Design
+
+<details>
+
+<summary>Переглянути скриншоти ...</summary>
+
+https://github.com/superbobr/kottans-frontend/blob/main/task_responsive_web_design/flexbox-froggy.png
+  
+https://github.com/superbobr/kottans-frontend/blob/main/task_responsive_web_design/grid-garden.png
+
+</details>
+
+Дуже цікавий модуль! З flexbox вже мав справу, а от з CSS Grid знайомий поверхнево. Сподобалась ігрова форма засвоєння матеріалу, вважаю її дуже ефективною та використовую у вивченні англійської мови.
